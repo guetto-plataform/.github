@@ -26,3 +26,4 @@ o histórico de decisões é parte do aprendizado.
 | [0010](0010-reutilizar-biblioteca-de-modulos-terraform.md) | Reutilizar a biblioteca `terraform-aws-modules` por versão | Aceito |
 | [0011](0011-bootstrap-local-state-migrado-e-scripts-bash.md) | Bootstrap local com state migrado; operação por scripts bash | Aceito |
 | [0012](0012-acesso-da-ci-a-aws-via-oidc.md) | Acesso da CI à AWS via OIDC, role única por conta e guardrails por Deny | Aceito |
+| [0013](0013-desenho-da-vpc.md) | Desenho da VPC: 3 AZs, `10.20.0.0/16`, seleção de AZ por ID, S3 Gateway Endpoint | Aceito |
