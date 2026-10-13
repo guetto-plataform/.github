@@ -27,3 +27,5 @@ o histórico de decisões é parte do aprendizado.
 | [0011](0011-bootstrap-local-state-migrado-e-scripts-bash.md) | Bootstrap local com state migrado; operação por scripts bash | Aceito |
 | [0012](0012-acesso-da-ci-a-aws-via-oidc.md) | Acesso da CI à AWS via OIDC, role única por conta e guardrails por Deny | Aceito |
 | [0013](0013-desenho-da-vpc.md) | Desenho da VPC: 3 AZs, `10.20.0.0/16`, seleção de AZ por ID, S3 Gateway Endpoint | Aceito |
+| [0014](0014-reaper-horario-fixo.md) | Reaper diário via GitHub Actions às 23h (Brasília), com execução de segurança | Aceito |
+| [0015](0015-orquestracao-up-down.md) | Orquestração do up/down: contrato por SSM, limpeza em camadas, scripts únicos | Aceito |
